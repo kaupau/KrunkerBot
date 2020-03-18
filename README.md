@@ -5,4 +5,4 @@ I used OpenCV to detect health bars of opponents and calculate the location of t
 
 While the program efficiently locates enemies and changes mouse movement on prerecorded gameplay videos, my computer pleaded for mercy when I tried to use it on a live game.
 
-![](Animated GIF-source.gif)
+![](AnimatedGIF-source.gif)
